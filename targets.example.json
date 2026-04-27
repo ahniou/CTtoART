@@ -1,0 +1,6 @@
+{
+  "threat_actors": ["APT29", "FIN7"],
+  "intrusion_sets": ["Cozy Bear"],
+  "malware": ["Emotet"],
+  "campaigns": ["Operation Dream Job"]
+}
