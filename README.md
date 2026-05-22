@@ -219,4 +219,3 @@ It covers:
 ## License
 
 Distributed under the MIT License unless otherwise noted at the repository root.
-Copyright AUO Corporation(auo.com)
